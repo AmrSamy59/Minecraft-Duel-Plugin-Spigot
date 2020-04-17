@@ -2,7 +2,7 @@
 ----------------------------------------------
 
 ***Commands:***
-```cmd
+```java
 /duel <Player_name> - [Command aliases: /challenge]
 /duelreqs - [Command aliases: /duelrequests]
 /accept <Player_name> - [Command aliases: /duelaccept]
