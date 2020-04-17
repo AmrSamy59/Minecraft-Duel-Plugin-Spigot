@@ -1,0 +1,22 @@
+name: duel
+version: 1.0
+author: Gat
+main: me.gat.duel.Main
+description: duel system
+
+commands:
+  duel:
+    aliases: [challenge]
+    description: Challenge a player for a duel
+  accept:
+    aliases: [duelaccept]
+    description: Accept Player's Duel Challenge Request
+  reject:
+    aliases: [deny, duelreject, dueldeny]
+    description: Reject Player's Duel Challenge Request
+  duelclear:
+    aliases: [duelremove]
+    description: Removes sent duel requests
+  duelreqs:
+    aliases: [duelrequests]
+    description: Gets current duel requests which had been sent to you

@@ -1,0 +1,32 @@
+messages:
+  duel_with_urself_err: "&4You can't duel yourself :facepalm:"
+  
+  invalid_plr: "&4*Invalid player!"
+  
+  duel_reqs: "&2*Your duel requests: &f<reqs>"
+  
+  already_sent_req: "You have already sent a request! You can't send more than one request.\nUse /duelclear to remove it"
+  
+  on_req_sent: "You have successfully sent a duel request to &7<plr>"
+  
+  on_req_receive: "&7<plr> has sent you a duel request!\nUse /accept <player_name> or /reject <player_name>"
+  
+  duel_clearreqs: "&2All duel requests were cleared successfully"
+  
+  on_req_reject: "&fYou have successfully rejected &7<plr>&f's duel request"
+  
+  on_req_rejected: "&7<plr> has rejected your duel request..."
+  
+  target_in_duel: "&4You can't preform this action because <plr> is already in a duel!"
+  
+  no_action: "&4You can't preform this action while being in a duel already!"
+  
+  req_error_noreq: "&4You don't have any requests currently!"
+  
+  req_error_notreceived: "&7<plr> hasn't sent you any duel request"
+  
+  duel_start: "&fThe duel has been started between you and &7<plr>!"
+  
+  on_win: "&2You have won!"
+  
+  on_lose: "&4Sadly..You have lost..Good luck next time!"
