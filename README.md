@@ -1,4 +1,4 @@
-# Duel Plugin for Minecraft 1.15.1+
+# Duel Plugin for Minecraft 1.15.x+
 ----------------------------------------------
 
 ***Commands:***
