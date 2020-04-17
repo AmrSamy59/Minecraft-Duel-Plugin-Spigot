@@ -1,4 +1,4 @@
-# Duel Plugin for Minecraft 1.15.x+
+# Duel Plugin for Minecraft Spigot/Bukkit Servers 1.15.x+
 ----------------------------------------------
 
 ***Commands:***
